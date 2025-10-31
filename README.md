@@ -52,4 +52,7 @@ file gốc
 file sau khi ký tên
 <img width="1226" height="778" alt="image" src="https://github.com/user-attachments/assets/482e3242-48ff-494c-b249-30c6f7b593ec" />
 
+cách 2: sử dụng phần mềm hỗ trợ reader forxit PDF 
+kết quả 
+<img width="549" height="345" alt="image" src="https://github.com/user-attachments/assets/e75bec85-1493-4bfd-a69c-4e63ecaa8dcb" />
 
